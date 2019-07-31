@@ -19,9 +19,10 @@
 #define OUT_TOPIC         "topic/Test"
 #define IN_TOPIC          "topic/Test/#"
 
-#define INTERVAL          (10000)
+#define INTERVAL          (100000)
 
-#define US WIO_D38
+// #define US WIO_D20
+// #define US WIO_D38
 
 boolean setup_flag = false;
 
