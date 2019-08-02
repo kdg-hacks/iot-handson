@@ -2,7 +2,7 @@
 
 // 接続した位置に合わせて、下記のコメントを付けたり、外したりしてください。
 // #define DHT11 WIO_D38
-// #define DHT11 WIO_D20
+ #define DHT11 WIO_D20
 
 #define APN               "soracom.io"
 #define USERNAME          "sora"
