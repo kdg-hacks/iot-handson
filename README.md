@@ -18,6 +18,8 @@
     - [環境セットアップ手順](https://github.com/SeeedJP/Wiki/blob/master/Wio_cell_lib_for_Arduino/setup-ja.md) の手順に従い、ボード(Seeed Wio LTE M1/NB1(BG96))の追加、ライブラリの追加をお願いします。
 - SORACOM アカウント, SIMカード（plan-KM1 1枚)の準備
     - 各チームごとに、SORACOMアカウント、IoT SIMカード（plan-KM1）を用意していますので、アカウント情報を確認し、ログインできることを確認してください。
+    - SORACOM ログインURL
+        - https://console.soracom.io/#/sam_login?o=OP0090125769&coverage_type=jp
 - AWSアカウントの準備
     - 各チームごとに、AWSアカウントを用意していますので、アカウント情報を確認し、ログインできることを確認してください。
 
