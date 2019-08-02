@@ -5,7 +5,7 @@
 #include "Ultrasonic.h"
 
 // 接続した位置に合わせて、下記のコメントを付けたり、外したりしてください。
-// #define US WIO_D38
+ #define US WIO_D38
 // #define US WIO_D20
 
 WioCellular Wio;
