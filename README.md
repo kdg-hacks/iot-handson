@@ -334,7 +334,7 @@ Step3では、距離センサーから取得した距離情報をSORACOM Beamを
     - 転送先
         - 種別: Other MQTT Broker
         - プロトコル: MQTTS
-        - ホスト名: ao9a30qja21jl-ats.iot.ap-northeast-1.amazonaws.com
+        - ホスト名: {AWS IoT エンドポイント}
         - ポート番号: 8883
         - 証明書: ON
         - 認証情報: wioltem-sample
